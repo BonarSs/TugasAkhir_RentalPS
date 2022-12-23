@@ -58,3 +58,20 @@ D:\Ngodeeng\File C#\RentalPS TA PBO\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.
 D:\Ngodeeng\File C#\RentalPS TA PBO\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.exe
 D:\Ngodeeng\File C#\RentalPS TA PBO\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.pdb
 D:\Ngodeeng\File C#\RentalPS TA PBO\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.FormCustomerManager.resources
+C:\Users\Damar\source\repos\TugasAkhir_RentalPS\WindowsFormsApp3\bin\Debug\login_tabel.mdf
+C:\Users\Damar\source\repos\TugasAkhir_RentalPS\WindowsFormsApp3\bin\Debug\login_tabel_log.ldf
+C:\Users\Damar\source\repos\TugasAkhir_RentalPS\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe.config
+C:\Users\Damar\source\repos\TugasAkhir_RentalPS\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe
+C:\Users\Damar\source\repos\TugasAkhir_RentalPS\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.pdb
+C:\Users\Damar\source\repos\TugasAkhir_RentalPS\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.AssemblyReference.cache
+C:\Users\Damar\source\repos\TugasAkhir_RentalPS\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.SuggestedBindingRedirects.cache
+C:\Users\Damar\source\repos\TugasAkhir_RentalPS\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Admin.resources
+C:\Users\Damar\source\repos\TugasAkhir_RentalPS\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Form1.resources
+C:\Users\Damar\source\repos\TugasAkhir_RentalPS\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.FormAdmin.resources
+C:\Users\Damar\source\repos\TugasAkhir_RentalPS\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.FormCustomerManager.resources
+C:\Users\Damar\source\repos\TugasAkhir_RentalPS\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Menuform.resources
+C:\Users\Damar\source\repos\TugasAkhir_RentalPS\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Properties.Resources.resources
+C:\Users\Damar\source\repos\TugasAkhir_RentalPS\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.GenerateResource.cache
+C:\Users\Damar\source\repos\TugasAkhir_RentalPS\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.CoreCompileInputs.cache
+C:\Users\Damar\source\repos\TugasAkhir_RentalPS\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.exe
+C:\Users\Damar\source\repos\TugasAkhir_RentalPS\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.pdb

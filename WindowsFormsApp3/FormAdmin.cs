@@ -110,5 +110,10 @@ namespace WindowsFormsApp3
                 }
             }
         }
+
+        private void FormAdmin_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }

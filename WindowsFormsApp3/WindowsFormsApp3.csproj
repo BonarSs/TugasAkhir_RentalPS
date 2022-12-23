@@ -126,6 +126,7 @@
     <Compile Include="Properties\Resources.Designer.cs">
       <AutoGen>True</AutoGen>
       <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
     </Compile>
     <None Include="login_tabelDataSet.xsc">
       <DependentUpon>login_tabelDataSet.xsd</DependentUpon>
@@ -162,6 +163,16 @@
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
       <DependentUpon>login_tabel.mdf</DependentUpon>
     </Content>
+    <None Include="Resources\5.png" />
+    <None Include="Resources\4.png" />
+    <None Include="Resources\3.png" />
+    <None Include="Resources\2.png" />
+    <None Include="Resources\11.png" />
+    <None Include="Resources\1.png" />
+    <None Include="Resources\affae.png" />
+    <None Include="Resources\pngwing.com.png" />
+    <None Include="Resources\ahhaerhaerhar.jpg" />
+    <None Include="Resources\fageaageae.jpg" />
   </ItemGroup>
   <ItemGroup>
     <BootstrapperPackage Include=".NETFramework,Version=v4.8">
